@@ -1,0 +1,22 @@
+.blogItem-wrap {
+    display: flex;
+    flex-direction: column;
+  }
+
+.blogItem-author {
+    display: flex;
+    align-items: center;
+}
+
+.blogItem-author p {
+    font-size: 0.6rem;
+    color: #a9a9a9;
+    font-weight: 600;
+  }
+
+.blogItem-wrap footer {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    justify-content: space-between;
+  }
